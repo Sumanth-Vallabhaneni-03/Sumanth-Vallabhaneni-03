@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **After Effects, Digital marketing**
 
-- 👯 I’m looking to collaborate on **Bloggers**
+- 👯 I’m looking to collaborate on **Bloggers, Video editors**
 
 - 💬 Ask me about **photography , design, database management**
 
