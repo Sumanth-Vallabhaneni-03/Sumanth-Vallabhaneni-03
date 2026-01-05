@@ -1,6 +1,6 @@
 ![MasterHead](https://ajmendez.github.io/assets/helloworld_finished.png)
 <h1 align="center">Hi 👋, I'm Sumanth Vallabhaneni</h1>
-<h3 align="center">A front end developer as well as Programmer</h3>
+<h3 align="center">A Developer and Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
